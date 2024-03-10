@@ -1,2 +1,2 @@
 # Hi, I'm JaFu! 
-![All about me](https://jafupy.com/bio)
+[All about me](https://jafupy.com/bio)
